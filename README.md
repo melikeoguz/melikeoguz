@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Laravel and Android Programming
 - 🌱 I’m currently learning Laravel for e-commerce website and object recognition
 - 💬 Ask me about GitHub,Seo,Laravel and Android Programming in Java
