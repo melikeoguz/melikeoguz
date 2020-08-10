@@ -11,7 +11,7 @@
 ### Lastest GitHub Posts
 
 - 📌 [FreeBSD](https://github.com/melikeoguz/FreeBSD)
-  - sdjjd
+  - FreeBSD Nedir ve niçin bu kadar sık kullanılmaktadır? Tüm bu soruların cevabına yazımı okuyarak ulaşabilirsiniz!
 - 📌 [Ubuntu](https://github.com/melikeoguz/Ubuntu)
 - 📌 [Android Programlama](https://github.com/melikeoguz/Android-Programming)
 - 📌 [HTML](https://github.com/melikeoguz/HTML)
