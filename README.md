@@ -13,6 +13,7 @@
 - 📌 [FreeBSD](https://github.com/melikeoguz/FreeBSD)
   - FreeBSD Nedir ve niçin bu kadar sık kullanılmaktadır? Tüm bu soruların cevabına yazımı okuyarak ulaşabilirsiniz!
 - 📌 [Ubuntu](https://github.com/melikeoguz/Ubuntu)
+  -  Ubuntu kullanımı, Ubuntu'da ağ yönetimi nasıl yapılır, sanal makineler ile host arasında bağlantı nasıl sağlanır gibi tüm soruların cevabına ulaşabilirsiniz!
 - 📌 [Android Programlama](https://github.com/melikeoguz/Android-Programming)
 - 📌 [HTML](https://github.com/melikeoguz/HTML)
 
