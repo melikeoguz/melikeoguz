@@ -11,13 +11,13 @@
 ### Lastest GitHub Posts
 
 - 📌 [FreeBSD](https://github.com/melikeoguz/FreeBSD)
-  - FreeBSD Nedir ve niçin bu kadar sık kullanılmaktadır? Tüm bu soruların cevabına yazımı okuyarak ulaşabilirsiniz!
+  - What is FreeBSD? Why is FreeBSD used so often? You can find the answer to all these questions by reading my article!
 - 📌 [Ubuntu](https://github.com/melikeoguz/Ubuntu)
-  -  Ubuntu kullanımı, Ubuntu'da ağ yönetimi nasıl yapılır, sanal makineler ile host arasında bağlantı nasıl sağlanır gibi tüm soruların cevabına ulaşabilirsiniz!
+  -  How can I use Ubuntu? How to manage network in Ubuntu? How to establish a connection between virtual machines and host? If you wonder about answer of this questions you should click here!
 - 📌 [Android Programlama](https://github.com/melikeoguz/Android-Programming)
-  - Java dilinde yazılmış temel seviyede android programlama bilgilerine ihtiyaç duyarsanız yazıma tıklamanız yeterli !
+  - Java dilinde yazılmış temel seviyede android programlama bilgilerine ihtiyaç duyarsanız yazıma tıklamanız yeterli!
 - 📌 [HTML](https://github.com/melikeoguz/HTML)
-  - HTML hakkında hatırlatıcı niteliği taşıyan özet bilgilere ulaşmak isterseniz yazımı okuyabilirsiniz !
+  - HTML hakkında hatırlatıcı niteliği taşıyan özet bilgilere ulaşmak isterseniz yazımı okuyabilirsiniz!
 
 <hr>
 
