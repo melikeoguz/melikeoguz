@@ -16,6 +16,7 @@
 - 📌 [HTML](https://github.com/melikeoguz/HTML)
 
 <hr>
+
 ### Lastest Projects
 
 - 📱 [Kelime Oyunu](https://github.com/melikeoguz/Word-Game)
