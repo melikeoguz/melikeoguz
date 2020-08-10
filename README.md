@@ -15,8 +15,9 @@
 - 📌 [Ubuntu](https://github.com/melikeoguz/Ubuntu)
   -  Ubuntu kullanımı, Ubuntu'da ağ yönetimi nasıl yapılır, sanal makineler ile host arasında bağlantı nasıl sağlanır gibi tüm soruların cevabına ulaşabilirsiniz!
 - 📌 [Android Programlama](https://github.com/melikeoguz/Android-Programming)
-  - Java dilinde yazılmış temel seviyede android programlama bilgilerine ihtiyaç duyarsanız yazıma tıklamanız yeterli!
+  - Java dilinde yazılmış temel seviyede android programlama bilgilerine ihtiyaç duyarsanız yazıma tıklamanız yeterli !
 - 📌 [HTML](https://github.com/melikeoguz/HTML)
+  - HTML hakkında hatırlatıcı niteliği taşıyan özet bilgilere ulaşmak isterseniz yazımı okuyabilirsiniz !
 
 <hr>
 
