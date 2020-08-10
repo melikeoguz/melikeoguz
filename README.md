@@ -14,3 +14,12 @@
 - 📌 [Ubuntu](https://github.com/melikeoguz/Ubuntu)
 - 📌 [Android Programlama](https://github.com/melikeoguz/Android-Programming)
 - 📌 [HTML](https://github.com/melikeoguz/HTML)
+
+### Lastest Projects
+
+- 📱 [Kelime Oyunu](https://github.com/melikeoguz/Word-Game)
+- 🚰 [Havuz Problemi](https://github.com/melikeoguz/Pool-Problem)
+- 📟 [Otomat Projesi](https://github.com/melikeoguz/Automat-Project)
+- 📪 [Multithreading Sunucu](https://github.com/melikeoguz/Multithreading-Project)
+- 👾 [Star Wars](https://github.com/melikeoguz/Star-Wars-Game-Project)
+- 🎮 [Robotlar](https://github.com/melikeoguz/Robots-Project)
