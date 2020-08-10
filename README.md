@@ -14,7 +14,7 @@
   - What is FreeBSD? Why is FreeBSD used so often? You can find the answer to all these questions by reading my article!
 - 📌 [Ubuntu](https://github.com/melikeoguz/Ubuntu)
   -  How can I use Ubuntu? How to manage network in Ubuntu? How to establish a connection between virtual machines and host? If you wonder about answer of this questions you should read article!
-- 📌 [Android Programlama](https://github.com/melikeoguz/Android-Programming)
+- 📌 [Android Programming](https://github.com/melikeoguz/Android-Programming)
   - If you need basic android programming information written in Java language, just click on my article!
 - 📌 [HTML](https://github.com/melikeoguz/HTML)
   - If you want to reach summary information about HTML that is a reminder, you can read the article!
