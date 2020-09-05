@@ -23,6 +23,7 @@
 
 ### Lastest Projects
 
+- 📝 [Text Mining](https://github.com/melikeoguz/Metin-Madenciligi-Calisma-Kagitlari)
 - 📱 [Word Game](https://github.com/melikeoguz/Word-Game)
 - 🚰 [Pool Problem](https://github.com/melikeoguz/Pool-Problem)
 - 📟 [Automat Project](https://github.com/melikeoguz/Automat-Project)
