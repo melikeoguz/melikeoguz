@@ -10,6 +10,8 @@
 
 ### Lastest GitHub Posts
 
+- 📌 [Text Mining](https://github.com/melikeoguz/Metin-Madenciligi-Calisma-Kagitlari)
+  - What is Text Mining? You can find text mining in Python by reading my article! Steps and Examples 
 - 📌 [FreeBSD](https://github.com/melikeoguz/FreeBSD)
   - What is FreeBSD? Why is FreeBSD used so often? You can find the answer to all these questions by reading my article!
 - 📌 [Ubuntu](https://github.com/melikeoguz/Ubuntu)
