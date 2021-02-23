@@ -10,6 +10,8 @@
 
 ### Lastest GitHub Posts
 
+- 📌 [Türkiye'deki En İyi Yazılım Şirketleri](https://github.com/melikeoguz/Blog-Post)
+  - Türkiye'deki En İyi Yazılım Şirketlerini Belirledik
 - 📌 [Text Mining](https://github.com/melikeoguz/Metin-Madenciligi-Calisma-Kagitlari)
   - What is Text Mining? You can find text mining in Python by reading my article! Steps and Examples 
 - 📌 [FreeBSD](https://github.com/melikeoguz/FreeBSD)
