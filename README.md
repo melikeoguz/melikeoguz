@@ -8,8 +8,10 @@
 
 <hr>
 
-### Lastest GitHub Posts
 
+### Lastest GitHub Posts
+- 📌 [Türkiye'deki En İyi Siber Güvenlik Şirketleri](https://github.com/melikeoguz/turkiyenin-en-iyi-siber-guvenlik-sirketleri/blob/main/turkiyenin-en-iyi-siber-guvenlik-sirketleri.md)
+  - Türkiye'deki En İyi Yazılım Şirketleri Hangileri, diye merak edip sizler için araştırdım. Linke tıklayarak siz de öğrenebilirsiniz.
 - 📌 [Türkiye'deki En İyi Yazılım Şirketleri](https://github.com/melikeoguz/Blog-Post)
   - Türkiye'deki En İyi Yazılım Şirketleri Hangileri, diye merak edip sizler için araştırdım. Linke tıklayarak siz de öğrenebilirsiniz.
 - 📌 [Text Mining](https://github.com/melikeoguz/Metin-Madenciligi-Calisma-Kagitlari)
