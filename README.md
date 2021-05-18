@@ -29,6 +29,7 @@
 
 ### Lastest Projects
 
+- 💉 [Breast Cancer Detection with Neural Network](https://github.com/melikeoguz/breast-cancer-detection-with-deep-learning)
 - 📝 [Text Mining](https://github.com/melikeoguz/Metin-Madenciligi-Calisma-Kagitlari)
 - 📱 [Word Game](https://github.com/melikeoguz/Word-Game)
 - 🚰 [Pool Problem](https://github.com/melikeoguz/Pool-Problem)
