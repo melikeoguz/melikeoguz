@@ -29,6 +29,7 @@
 ### Lastest Projects
 
 - 💉 [Breast Cancer Detection with Neural Network](https://github.com/melikeoguz/breast-cancer-detection-with-deep-learning)
+- 📊 [Evaluating the Car Price According to the Car Features and Making a Price Prediction](https://github.com/melikeoguz/data-mining/blob/main/CarPrice.ipynb)
 - ✏️ [Soru Havuzu -Quiz](https://github.com/melikeoguz/Soru-Havuzu)
 - 📝 [Text Mining](https://github.com/melikeoguz/Metin-Madenciligi-Calisma-Kagitlari)
 - 📱 [Word Game](https://github.com/melikeoguz/Word-Game)
