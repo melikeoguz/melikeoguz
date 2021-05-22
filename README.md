@@ -10,6 +10,9 @@
 
 
 ### Lastest GitHub Posts
+
+- 📌 [Breast Cancer Detection with Deep Learning](https://github.com/melikeoguz/breast-cancer-detection-with-deep-learning)
+  - Is it possible to detect breast cancer with artificial neural networks? What kind of an artificial neural network model should we develop for this?
 - 📌 [Text Mining](https://github.com/melikeoguz/Metin-Madenciligi-Calisma-Kagitlari)
   - What is Text Mining? You can find text mining in Python by reading my article! Steps and Examples 
 - 📌 [FreeBSD](https://github.com/melikeoguz/FreeBSD)
