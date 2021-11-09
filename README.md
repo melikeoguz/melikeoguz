@@ -22,7 +22,7 @@
 - 📌 [HTML](https://github.com/melikeoguz/HTML)
   - If you want to reach summary information about HTML that is a reminder, you can read the article!
 
-<p style="font-size:20px">👉🏼 If you want to reach more articles, you can visit my blog ! https://melikeoguz.github.io</p>
+👉🏼 If YOU WANT TO  want to read more articles, you can visit my blog ! https://melikeoguz.github.io
 
 <hr>
 
