@@ -22,6 +22,8 @@
 - 📌 [HTML](https://github.com/melikeoguz/HTML)
   - If you want to reach summary information about HTML that is a reminder, you can read the article!
 
+👉🏼 If you want to reach more articles, you can visit my blog ! https://melikeoguz.github.io
+
 <hr>
 
 ### Lastest Projects
