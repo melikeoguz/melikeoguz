@@ -28,6 +28,7 @@
 
 ### Lastest Projects
 
+- 🔎 [Detection of Fake User Reviews with Machine Learning Methods](https://github.com/melikeoguz/fake-comment-detection)
 - ⚛️ [Credit Card Customer Loss Prediction with Neural Network](https://github.com/melikeoguz/credit-cart-customers-bank-churners-with-neural-network)
 - 💉 [Breast Cancer Detection with Neural Network](https://github.com/melikeoguz/breast-cancer-detection-with-deep-learning)
 - 📊 [Evaluating the Car Price According to the Car Features and Making a Price Prediction](https://github.com/melikeoguz/data-mining/blob/main/CarPrice.ipynb)
