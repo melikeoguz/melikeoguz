@@ -7,10 +7,7 @@
 - 🎼 My favorite playlist is < Coding/ >. If you wanna listen playlist [click here](https://open.spotify.com/playlist/7IImK40Rng4pclYflKPLs9?si=GbnLLfN5TfyrTAE2M5OQlg) 
 
 ![snake svg](https://github.com/melikeoguz/melikeoguz/blob/output/github-contribution-grid-snake.svg) <br>
-<hr>
 
-| <a href="https://github.com/melikeoguz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=melikeoguz&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="MelikeOguz's github stats" /></a> | <a href="https://github.com/melikeoguz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melikeoguz&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
 
 <hr>
 ### Lastest GitHub Posts
@@ -44,3 +41,7 @@
 - 📪 [Multithreading Project](https://github.com/melikeoguz/Multithreading-Project)
 - 👾 [Star Wars](https://github.com/melikeoguz/Star-Wars-Game-Project)
 - 🎮 [Robots Project](https://github.com/melikeoguz/Robots-Project)
+
+
+| <a href="https://github.com/melikeoguz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=melikeoguz&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="MelikeOguz's github stats" /></a> | <a href="https://github.com/melikeoguz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melikeoguz&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
