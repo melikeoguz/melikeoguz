@@ -40,3 +40,5 @@
 - 📪 [Multithreading Project](https://github.com/melikeoguz/Multithreading-Project)
 - 👾 [Star Wars](https://github.com/melikeoguz/Star-Wars-Game-Project)
 - 🎮 [Robots Project](https://github.com/melikeoguz/Robots-Project)
+
+![snake gif](https://github.com/melikeoguz/melikeoguz/blob/output/github-contribution-grid-snake.gif)
