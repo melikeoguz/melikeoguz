@@ -6,6 +6,7 @@
 - 💬 Ask me about GitHub, Java, Seo, Laravel and Android Programming in Java
 - 🎼 My favorite playlist is < Coding/ >. If you wanna listen playlist [click here](https://open.spotify.com/playlist/7IImK40Rng4pclYflKPLs9?si=GbnLLfN5TfyrTAE2M5OQlg) 
 
+![snake svg](https://github.com/melikeoguz/melikeoguz/blob/output/github-contribution-grid-snake.svg)
 <hr>
 
 
@@ -41,6 +42,5 @@
 - 👾 [Star Wars](https://github.com/melikeoguz/Star-Wars-Game-Project)
 - 🎮 [Robots Project](https://github.com/melikeoguz/Robots-Project)
 
-![snake svg](https://github.com/melikeoguz/melikeoguz/blob/output/github-contribution-grid-snake.svg)
 
 
