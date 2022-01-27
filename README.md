@@ -42,5 +42,7 @@
 - 👾 [Star Wars](https://github.com/melikeoguz/Star-Wars-Game-Project)
 - 🎮 [Robots Project](https://github.com/melikeoguz/Robots-Project)
 
-| <a href="https://github.com/melikeoguz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=melikeoguz&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="MelikeOguz's github stats" /></a> | <a href="https://github.com/melikeoguz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melikeoguz&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/melikeoguz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=melikeoguz&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="MelikeOguz's github stats" /></a> |<br><br>
+
+<a href="https://github.com/melikeoguz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melikeoguz&layout=compact&theme=buefy&hide_border=true" /></a> |
 
