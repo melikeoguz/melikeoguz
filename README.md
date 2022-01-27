@@ -41,4 +41,6 @@
 - 👾 [Star Wars](https://github.com/melikeoguz/Star-Wars-Game-Project)
 - 🎮 [Robots Project](https://github.com/melikeoguz/Robots-Project)
 
-![snake gif](https://github.com/melikeoguz/melikeoguz/blob/output/github-contribution-grid-snake.gif)
+![snake svg](https://github.com/melikeoguz/melikeoguz/blob/output/github-contribution-grid-snake.svg)
+
+
