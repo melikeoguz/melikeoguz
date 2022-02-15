@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on AI/ML
+- 🔭 I’m currently working on Artificial Intelligence
 - 🌱 I’m currently learning neural network, artifical intelligence and python
 - 💬 Ask me about GitHub, Java, Seo, Laravel and Android Programming in Java
 - 🎼 My favorite playlist is < Coding/ >. If you wanna listen playlist [click here](https://open.spotify.com/playlist/7IImK40Rng4pclYflKPLs9?si=GbnLLfN5TfyrTAE2M5OQlg) 
