@@ -47,3 +47,9 @@
 
 | <a href="https://github.com/melikeoguz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=melikeoguz&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="MelikeOguz's github stats" /></a> | <a href="https://github.com/melikeoguz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melikeoguz&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
+
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=melikeoguz&label=Profile%20views&color=0e75b6&style=flat" alt="melikeoguz" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=melikeoguz" alt="melikeoguz" /></a> </p>
